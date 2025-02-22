@@ -1,0 +1,2 @@
+print("Akhmadi")
+print("Amangeldi")
